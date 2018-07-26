@@ -3,7 +3,7 @@
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 
 perfect_10_recipe = { 
-  :almondflour => "2 cups",
+  :almond_flour => "2 cups",
   :gluten_freewhole_oats => "1 cup",
   :kosher_salt => "1/2 teaspoon",
   :baking_powder => "1/2 teaspoon",
@@ -23,7 +23,7 @@ def recipe_ingredients(perfect_10_recipe)
   return perfect_10_recipe
 end
 
-recipe_ingredients
+recipe_ingredients(:almond_flour)
 
 
 
