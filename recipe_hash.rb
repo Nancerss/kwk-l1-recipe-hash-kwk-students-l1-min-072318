@@ -20,6 +20,7 @@ puts perfect_10_recipe[:mini_dark_chocolate_chips]
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
+  returns perfect_10_recipe
 end
 
 
@@ -29,7 +30,7 @@ def amount_of_chocolate_chips(perfect_10_recipe)
   puts perfect_10_recipe[:mini_dark_chocolate_chips]
 end
 
-amount_of_chocolate_chips("5")
+amount_of_chocolate_chips(5)
 
 
 #3: Use `puts` to print out every ingredient and amount in the hash by iterating through the collection. You'll want to use the `each` method.
