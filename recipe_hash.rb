@@ -14,7 +14,7 @@ perfect_10_recipe = {
   :olive_oil => "1/2 cup",
   :agave => "1/4 cup"
 }
-puts perfect_10_recipe
+# puts perfect_10_recipe
 puts perfect_10_recipe["mini_dark_chocolate_chips"]
 
 
