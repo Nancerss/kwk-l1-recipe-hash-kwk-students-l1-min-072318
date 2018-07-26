@@ -15,7 +15,7 @@ perfect_10_recipe = {
   :agave => "1/4 cup"
 }
 # puts perfect_10_recipe
-puts perfect_10_recipe["mini_dark_chocolate_chips"]
+puts perfect_10_recipe[:mini_dark_chocolate_chips]
 
 
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
