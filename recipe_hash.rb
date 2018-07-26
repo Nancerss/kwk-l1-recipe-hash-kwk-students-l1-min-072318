@@ -15,7 +15,7 @@ perfect_10_recipe = {
   :agave => "1/4 cup"
 }
 # puts perfect_10_recipe
-puts perfect_10_recipe[:mini_dark_chocolate_chips]
+# puts perfect_10_recipe[:mini_dark_chocolate_chips]
 
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
