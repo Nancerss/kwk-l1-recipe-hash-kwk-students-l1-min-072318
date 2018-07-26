@@ -10,7 +10,7 @@ perfect_10_recipe = {
   :baking_soda => "1/4 teaspoon",
   :xanthan_gum => "1/2 teaspoon",
   :slithered_almond_lightly_toasted => "1/4 cup",
-  :mini_dark_chocolate_chips => "3/4 cup",
+  :mini_dark_chocolate_chips => "3 cups",
   :olive_oil => "1/2 cup",
   :agave => "1/4 cup"
 }
